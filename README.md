@@ -31,3 +31,7 @@ Java   53 mins         ███████████████████
 
 <!--END_SECTION:waka-->
 
+Mention: 05.20.2022-06.11.2022 met some github issue. This causes issue of the github contribution system.
+
+
+
