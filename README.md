@@ -26,12 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             2 hrs 43 mins   ██████████████████████░░░   88.04 %
-XML              20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java   2 hrs 15 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
