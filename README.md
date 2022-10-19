@@ -26,12 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python                  1 hr 52 mins    ██████████▓░░░░░░░░░░░░░░   42.79 %
-ANTLR v4 grammar file   1 hr 26 mins    ████████▒░░░░░░░░░░░░░░░░   32.75 %
-Java                    54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-XML                     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-AUTO_DETECTED           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-IDEA_MODULE             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Python                  1 hr 52 mins    ████████▓░░░░░░░░░░░░░░░░   34.64 %
+ANTLR v4 grammar file   1 hr 26 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+Other                   59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
 ```
 
 <!--END_SECTION:waka-->
