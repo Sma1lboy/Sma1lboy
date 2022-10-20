@@ -26,9 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python                  1 hr 52 mins    ████████▓░░░░░░░░░░░░░░░░   34.64 %
-ANTLR v4 grammar file   1 hr 26 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-Other                   59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+Python                  2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.95 %
+Java                    1 hr 39 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
+Other                   1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.85 %
 ```
 
 <!--END_SECTION:waka-->
