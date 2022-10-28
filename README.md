@@ -26,9 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                    13 mins         █████████████████░░░░░░░░   67.47 %
-ANTLR v4 grammar file   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-Markdown                0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Java         13 mins         █████████████████▓░░░░░░░   70.59 %
+JavaScript   5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
