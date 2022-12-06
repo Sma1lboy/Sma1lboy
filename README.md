@@ -14,14 +14,6 @@
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174836.png"></code>
 
-
-- 👋 Hi, I’m @Sma1lboy
-- I'm currently working on my one sentence mac
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me [Instagram](https://www.instagram.com/sma1lboy/)
-
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
