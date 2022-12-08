@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackson Chen</h1>
 <h3 align="center">A passionate software developer from earth</h3>
-
+<img align="right" alt="coding" width="400" src="https://i.ytimg.com/vi/j-3eArinB7E/maxresdefault.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sma1lboy&label=Profile%20views&color=0e75b6&style=flat" alt="sma1lboy" /> </p>
 
 - 🌱 I’m currently learning **react**
