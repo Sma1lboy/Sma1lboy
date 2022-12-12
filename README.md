@@ -18,12 +18,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sma1lboy&show_icons=true&locale=en" alt="sma1lboy" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&" alt="sma1lboy" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sma1lboy&show_icons=true&locale=en" alt="sma1lboy" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&" alt="sma1lboy" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sma1lboy&show_icons=true&locale=en&layout=compact" alt="sma1lboy" />
-   <a href="https://leetcode.com/sma1lboy/"><img width="41%" src="https://leetcode.card.workers.dev/Sma1lboy?theme=default&font=source_code_pro&extension=null"></a>
+   <a href="https://leetcode.com/sma1lboy/"><img width="44%" src="https://leetcode.card.workers.dev/Sma1lboy?theme=default&font=source_code_pro&extension=null"></a>
 </p>
 
 
