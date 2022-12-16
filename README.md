@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **leetcode, java stuffs**
+- 💬 Ask me about **leetcode, java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
