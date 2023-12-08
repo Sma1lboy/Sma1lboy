@@ -14,7 +14,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 
 Joined Github **2** years ago.
 
-Since then I pushed **658**+ commits, opened **9**+ issues, submitted **20**+ pull requests, created **0**+ gists and contributed to **27**+ public repositories.
+Since then I pushed **659**+ commits, opened **9**+ issues, submitted **20**+ pull requests, created **0**+ gists and contributed to **27**+ public repositories.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -73,7 +73,8 @@ Since then I pushed **658**+ commits, opened **9**+ issues, submitted **20**+ pu
 
 <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sma1lboy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sma1lboy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=default#gh-light-mode-only" />
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sma1lboy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
