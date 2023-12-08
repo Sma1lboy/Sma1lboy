@@ -70,8 +70,8 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode and JetBrain series</li>
  	    <li><b>Other Tools:</b> Postman, Typora, Notion,</li>
-	    <li><b>To Stay Updated:</b>My Own [Blog](https://sbirl.com)</li>
-	</ul>d
+	    <li><b>To Stay Updated:</b>My Own <a href="https://sbirl.com">Blog</a> </li>
+	</ul>
 </details>
 
 #
