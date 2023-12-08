@@ -74,11 +74,11 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 <br />
 
 <picture>
-  <source
+  <source height="180em"
     srcset="https://github-readme-stats.vercel.app/api?username=sma1lboy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
+  <source height="180em"
     srcset="https://github-readme-stats.vercel.app/api?username=sma1lboy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
