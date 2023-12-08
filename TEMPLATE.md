@@ -37,8 +37,8 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 ### Languages and Tools:
 
-`
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+
+ <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
@@ -67,19 +67,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
-`
-
-`<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">``</code>`
-`<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript">``</code>`
-`<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">``</code>`
-`<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs">``</code>`
-`<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws">``</code>`
-`<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react">``</code>`
-`<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql">``</code>`
-`<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb">``</code>`
-`<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">``</code>`
-`<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">``</code>`
-
+  
 ### Projects and Dev Stuffs:
 
 <details>
