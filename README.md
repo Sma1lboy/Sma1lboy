@@ -14,7 +14,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 
 Joined Github **2** years ago.
 
-Since then I pushed **667**+ commits, opened **9**+ issues, submitted **20**+ pull requests, created **0**+ gists and contributed to **27**+ public repositories.
+Since then I pushed **668**+ commits, opened **9**+ issues, submitted **20**+ pull requests, created **0**+ gists and contributed to **27**+ public repositories.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -114,11 +114,17 @@ Since then I pushed **667**+ commits, opened **9**+ issues, submitted **20**+ pu
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true" />
 </picture>
-  <picture>
-    <source height="180em"
-    srcset="https://leetcard.jacoblin.cool/sma1lboy"/>
-  </picture>
-  <img src="https://leetcard.jacoblin.cool/sma1lboy" />
+<picture>
+  <source height="180em"
+    srcset="https://leetcard.jacoblin.cool/sma1lboy?border=0&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source height="180em"
+    srcset="https://leetcard.jacoblin.cool/sma1lboy?border=0"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://leetcard.jacoblin.cool/sma1lboy?border=0" />
+</picture>
 </details>
 
 <details>
