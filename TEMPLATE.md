@@ -33,9 +33,6 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
-
- <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
