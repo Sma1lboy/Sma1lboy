@@ -14,7 +14,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 
 Joined Github **2** years ago.
 
-Since then I pushed **669**+ commits, opened **9**+ issues, submitted **20**+ pull requests, created **0**+ gists and contributed to **27**+ public repositories.
+Since then I pushed **671**+ commits, opened **9**+ issues, submitted **20**+ pull requests, created **0**+ gists and contributed to **27**+ public repositories.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -33,9 +33,6 @@ Since then I pushed **669**+ commits, opened **9**+ issues, submitted **20**+ pu
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
-
- <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
