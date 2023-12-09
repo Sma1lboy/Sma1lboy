@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://sbirl.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=Hello+World!+This+is+Jackson" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=340&lines=Hello+World!+This+is+Jackson" alt="Typing SVG" /></a></h1>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chong-chen-857214292/)
@@ -14,7 +14,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 
 Joined Github **2** years ago.
 
-Since then I pushed **672**+ commits, opened **9**+ issues, submitted **20**+ pull requests, created **0**+ gists and contributed to **27**+ public repositories.
+Since then I pushed **673**+ commits, opened **9**+ issues, submitted **20**+ pull requests, created **0**+ gists and contributed to **27**+ public repositories.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
