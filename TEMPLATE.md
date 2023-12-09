@@ -100,10 +100,23 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 </details>
 
 <details>
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>☄️ Github Streaks & Leetcode</b></summary>
 
 <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true" />
+<picture>
+  <source height="180em"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source height="180em"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true" />
+</picture>
+  
+    <source height="180em"
+    srcset="https://leetcard.jacoblin.cool/sma1lboy"/>
 </details>
 
 <details>
