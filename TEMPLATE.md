@@ -104,22 +104,22 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 <br />
 <picture>
-  <source height="180em"
+  <source height="150em"
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source height="180em"
+  <source height="150em"
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true" />
 </picture>
 <picture>
-  <source height="180em"
+  <source height="150em"
     srcset="https://leetcard.jacoblin.cool/sma1lboy?border=0&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source height="180em"
+  <source height="150em"
     srcset="https://leetcard.jacoblin.cool/sma1lboy?border=0"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
@@ -140,9 +140,3 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 	    <li><b>To Stay Updated:</b>My Own <a href="https://sbirl.com">Blog</a> </li>
 	</ul>
 </details>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
