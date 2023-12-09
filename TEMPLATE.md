@@ -114,9 +114,11 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true" />
 </picture>
-  
+  <picture>
     <source height="180em"
     srcset="https://leetcard.jacoblin.cool/sma1lboy"/>
+  </picture>
+  <img src="https://leetcard.jacoblin.cool/sma1lboy" />
 </details>
 
 <details>
