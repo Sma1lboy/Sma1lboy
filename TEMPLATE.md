@@ -114,11 +114,17 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true" />
 </picture>
-  <picture>
-    <source height="180em"
-    srcset="https://leetcard.jacoblin.cool/sma1lboy"/>
-  </picture>
-  <img src="https://leetcard.jacoblin.cool/sma1lboy" />
+<picture>
+  <source height="180em"
+    srcset="https://leetcard.jacoblin.cool/sma1lboy?border=0&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source height="180em"
+    srcset="https://leetcard.jacoblin.cool/sma1lboy?border=0"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://leetcard.jacoblin.cool/sma1lboy?border=0" />
+</picture>
 </details>
 
 <details>
