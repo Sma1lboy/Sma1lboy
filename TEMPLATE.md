@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://sbirl.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=340&lines=Hello+World!+This+is+Jackson" alt="Typing SVG" /></a></h1>
+<a href="https://jacksonchen.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=340&lines=Hello+World!+This+is+Jackson" alt="Typing SVG" /></a></h1>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chong-chen-857214292/)
@@ -22,8 +22,8 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 - 🛠 &nbsp; I’m currently working with Java, Cpp, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Compiler, PL, etc.
-- 💬 &nbsp; Ask me anything [here](https://sbirl.com)(the chat button on the buttom right corner)! I am happy to help.
-- 👾 &nbsp; Java is newer than Python
+- 💬 &nbsp; Ask me anything [here](https://blog.jacksonchen.me) (the chat button on the buttom right corner)! I am happy to help.
+- 👾 &nbsp; Fact: Java is newer than Python
 - 📫 &nbsp; Reach me out: jacksoncc486@gmail.com
 
 ### My Absolute Favorites:
