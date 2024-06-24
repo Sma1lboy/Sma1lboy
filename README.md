@@ -14,7 +14,7 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 
 Joined Github **2** years ago.
 
-Since then I pushed **1239**+ commits, opened **12**+ issues, submitted **50**+ pull requests, created **0**+ gists and contributed to **46**+ public repositories.
+Since then I pushed **1239**+ commits, opened **12**+ issues, submitted **52**+ pull requests, created **0**+ gists and contributed to **46**+ public repositories.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
