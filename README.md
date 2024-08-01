@@ -1,6 +1,11 @@
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 <p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.plugin.activity.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.plugin.rss.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.plugin.leetcode.svg" alt="Metrics" width="400"></p>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5uaFIS6PTwArrmO2164zGt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Projects and Dev Stuffs:
 
