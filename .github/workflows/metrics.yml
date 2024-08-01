@@ -55,9 +55,9 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: "Sma1lboy"
           plugin_leetcode_sections: solved, skills, recent
-          name: Spotify - Random track from playlist
 
-      - uses: lowlighter/metrics@latest
+      - name: Spotify - Random track from playlist
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.music.playlist.spotify.svg
           token: NOT_NEEDED
@@ -82,6 +82,6 @@ jobs:
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: "0"
+          plugin_steam_user: ""
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
