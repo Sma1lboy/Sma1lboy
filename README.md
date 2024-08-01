@@ -1,67 +1,110 @@
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<h1 align="center">Welcome to My GitHub Universe 🚀</h1>
 
-<p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="Metrics" width="400"></p>
-<p align="center"><img src="/metrics.plugin.activity.svg" alt="Metrics" width="400"></p>
-<p align="center"><img src="/metrics.plugin.rss.svg" alt="Metrics" width="400"></p>
-<p align="center"><img src="/metrics.plugin.leetcode.svg" alt="Metrics" width="400"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="Focus">
+  <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20Java%20%7C%20C-blue" alt="Languages">
+  <img src="https://img.shields.io/badge/Interests-AI%20%7C%20Web3%20%7C%20OS-orange" alt="Interests">
+</p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5uaFIS6PTwArrmO2164zGt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+---
 
-### Projects and Dev Stuffs:
+## 👨‍💻 About Me
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-<br />
+<!-- Add a brief, engaging intro about yourself here -->
 
-<picture>
-  <source height="180em"
-    srcset="https://github-readme-stats.vercel.app/api?username=sma1lboy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source height="180em"
-    srcset="https://github-readme-stats.vercel.app/api?username=sma1lboy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sma1lboy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</picture>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Jackson Chen"
+        self.role = "Full Stack Developer"
+        self.language_spoken = ["zh_CN", "en_US"]
 
-<picture>
-  <source height="180em"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sma1lboy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source height="180em"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sma1lboy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sma1lboy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
-</picture>
-</details>
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-<details>
-  <summary><b>☄️ Github Streaks & Leetcode</b></summary>
+me = Developer()
+me.say_hi()
+```
 
-<br />
-<picture>
-  <source height="150em"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source height="150em"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sma1lboy&hide_border=true" />
-</picture>
-<picture>
-  <source height="150em"
-    srcset="https://leetcard.jacoblin.cool/sma1lboy?border=0&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source height="150em"
-    srcset="https://leetcard.jacoblin.cool/sma1lboy?border=0"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://leetcard.jacoblin.cool/sma1lboy?border=0" />
-</picture>
-</details>
+---
+
+## 🌟 My GitHub Metrics
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</p>
+
+---
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <img src="/metrics.plugin.topics.icons.svg" alt="Topic Icons" width="100%">
+</p>
+
+---
+
+<h2 align="center">📊 This Week I Spent My Time On</h2>
+
+<p align="center">
+  <img src="/metrics.plugin.wakatime.svg" alt="WakaTime Stats" width="70%">
+</p>
+
+---
+
+<h2 align="center">🏆 My GitHub Achievements</h2>
+
+<p align="center">
+  <img src="/metrics.plugin.activity.svg" alt="Activity" width="70%">
+</p>
+
+---
+
+<h2 align="center">📚 Latest Blog Posts</h2>
+
+<p align="center">
+  <img src="/metrics.plugin.rss.svg" alt="RSS Feed" width="70%">
+</p>
+
+---
+
+<h2 align="center">🧠 LeetCode Progress</h2>
+
+<p align="center">
+  <img src="/metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="70%">
+</p>
+
+---
+
+<h2 align="center">🎵 Now Playing</h2>
+
+<p align="center">
+  <img src="/metrics.plugin.music.playlist.spotify.svg" alt="Spotify Playlist" width="70%">
+</p>
+
+---
+
+<h2 align="center">🎮 Gaming Stats</h2>
+
+<p align="center">
+  <img src="/metrics.plugin.steam.svg" alt="Steam Stats" width="70%">
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+<p align="center">Thanks for visiting my profile! Have a great day! 😊</p>
