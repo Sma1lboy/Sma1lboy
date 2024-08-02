@@ -63,7 +63,9 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/3nfA87oeJw4LFVcUDjRcqi
+          plugin_music_provider: "spotify"
+          plugin_music_token: ${{secrets.SPOTIFY_TOKEN}}
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/5uaFIS6PTwArrmO2164zGt
           plugin_music_user: "Jackson Chen"
 
       - name: WakaTime
@@ -83,6 +85,6 @@ jobs:
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: ""
+          plugin_steam_user: "76561198238430478"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
