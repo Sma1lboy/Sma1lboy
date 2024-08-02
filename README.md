@@ -5,6 +5,12 @@
   <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20Java%20%7C%20C-blue" alt="Languages">
   <img src="https://img.shields.io/badge/Interests-AI%20%7C%20Web3%20%7C%20OS-orange" alt="Interests">
 </p>
+<p align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vwvgb3qa1y8mmtqnutftkvffz&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=vwvgb3qa1y8mmtqnutftkvffz&redirect=true)
+
+
+</p>
 
 ---
 
