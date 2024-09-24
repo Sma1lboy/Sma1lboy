@@ -120,9 +120,9 @@ me.say_hi()
 <h2 align="center">🌱 Current Learning Journey</h2>
 
 <p align="center">
-  <img src="https://progress-bar.dev/80?title=AI%20Fundamentals" alt="AI Fundamentals">
-  <img src="https://progress-bar.dev/20?title=Blockchain%20Development" alt="Blockchain Development">
-  <img src="https://progress-bar.dev/75?title=Advanced%20OS%20Concepts" alt="Advanced OS Concepts">
+  <img src="https://progress-bar.xyz/80?title=AI%20Fundamentals" alt="AI Fundamentals">
+  <img src="https://progress-bar.xyz/20?title=Blockchain%20Development" alt="Blockchain Development">
+  <img src="https://progress-bar.xyz/75?title=Advanced%20OS%20Concepts" alt="Advanced OS Concepts">
 </p>
 
 ---
