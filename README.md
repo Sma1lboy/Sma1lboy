@@ -19,7 +19,7 @@ class Developer:
     def __init__(self):
         self.name = "Jackson Chen"
         self.role = "Full Stack Developer"
-        self.yof = "3 years since freshman year of college"
+        self.yoe = "3 years since freshman year of college"
         self.language_spoken = ["zh_CN", "en_US"]
         self.current_focus = ["AI", "Web3", "Operating Systems"]
 
