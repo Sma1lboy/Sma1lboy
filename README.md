@@ -6,7 +6,7 @@
 </p>
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vwvgb3qa1y8mmtqnutftkvffz&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=vwvgb3qa1y8mmtqnutftkvffz&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vwvgb3qa1y8mmtqnutftkvffz&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=vwvgb3qa1y8mmtqnutftkvffz&redirect=true)
 
 </div>
 
@@ -19,9 +19,9 @@ class Developer:
     def __init__(self):
         self.name = "Jackson Chen"
         self.role = "Full Stack Developer"
+        self.yof = "3 years since freshman year of college"
         self.language_spoken = ["zh_CN", "en_US"]
         self.current_focus = ["AI", "Web3", "Operating Systems"]
-        self.life_motto = "Code, Learn, Innovate, Repeat!"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
