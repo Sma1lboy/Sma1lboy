@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#73 feat(backend): update package.json and pnpm-lock.yaml</span>
+                                        <span class="issue">#76 chore(docs): adding docs support for now</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Sma1lboy/codefox</span></div>
-                                    <div>2 files changed <span class="code">++11 --2</span></div>
+                                    <div>43 files changed <span class="code">++19149 --8370</span></div>
                                 </div>
                             </section>
                         </div>
@@ -41,7 +41,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">chore-adding-types-versions-path-sort</span>
+                                        <span class="code">chore-adding-docs-app</span>
                                         in
                                         <span class="repo">Sma1lboy/codefox</span>
                                     </div>
@@ -56,12 +56,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#72 refactor(backend): refactor context part</span>
+                                        <span class="issue">#74 feat(backend): enhance config loader with embedding support and impro…</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Sma1lboy/codefox</span></div>
-                                    <div>17 files changed <span class="code">++409 --309</span></div>
+                                    <div>3 files changed <span class="code">++391 --18</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,7 +74,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">refactor-building-state</span>
+                                        <span class="code">feat-adding-embedding-config</span>
                                         in
                                         <span class="repo">Sma1lboy/codefox</span>
                                     </div>
@@ -89,12 +89,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#54 feat(backend): Backend config convention and pull model</span>
+                                        <span class="issue">#71 Feat(backend)file generate function specific place</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by NarwhalChen in <span class="repo">Sma1lboy/codefox</span></div>
-                                    <div>11 files changed <span class="code">++11082 --8146</span></div>
+                                    <div>opened by ZHallen122 in <span class="repo">Sma1lboy/codefox</span></div>
+                                    <div>9 files changed <span class="code">++165 --42</span></div>
                                 </div>
                             </section>
                         </div>
