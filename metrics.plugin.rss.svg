@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A data table thousands of years old (2020)</div>
-                                <div class="date">21 Dec 2024</div>
+                                <div class="title">Twtxt is a decentralised, minimalist microblogging service for hackers</div>
+                                <div class="date">22 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Translating 10M lines of Java to Kotlin</div>
-                                <div class="date">18 Dec 2024</div>
+                                <div class="title">Decoding the telephony signals in Pink Floyd's 'The Wall'</div>
+                                <div class="date">22 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dividing unsigned 8-bit numbers</div>
-                                <div class="date">21 Dec 2024</div>
+                                <div class="title">'United Healthcare' Using DMCA Against Luigi Mangione Images</div>
+                                <div class="date">23 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">City Roads: A tool to draw all roads in a city at once</div>
-                                <div class="date">21 Dec 2024</div>
+                                <div class="title">How bloom filters made SQLite 10x faster</div>
+                                <div class="date">22 Dec 2024</div>
                             </div>
                         </div>
                     </section>
