@@ -22,15 +22,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgEFAQEAAAAAAAAAAAAABwgDAAEEBQYJAv/EAC4QAAEDAwIFAwMEAwAAAAAAAAECAwQABREGEgchMUFhEyJRCBRxFRcjMlKBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAAFBP/EAB8RAAEDBAMBAAAAAAAAAAAAAAADBCEBAgUREzFBUf/aAAwDAQACEQMRAD8AVXl3q4+M4BqsYPwR81LFYdlPpZYbLjzhwlI6k0BFjl1r6AU4oADco8gBRS4ccFNR6xuRbcbMCEgAqkOp9p8DzTLaG+nvSmnJkS4SkOzLhHVuSVLJbJ+dpoBdNPcC7vO0+Lpd5zFoLqcx476CVu/GMUN9TaduemriqHeIq47nVIVj3J7EfmvQXUr2nkOvwX5CPvVIwGc52Dtt+KVPiXwolGU9PtN1XcXHFEphuKUt0eAT2oAHHlVdqkfacjvLadSUOIUUqSeoI6io6AuaKvANqILlc5TjSXZ7LQMXcMhKs9SKFQ657UTeCOtoelrlKjXJlBjzEhsPFI/iPyaAZG5Xh+CtcW3ykQ7SwwmQt0jo6r+2T8Z7V0tk1jcH9J3FEhxtV6jNeo0tKcJWgn2nH4riLRBRcNNvxp6SWpaiSe5bJyCK2Gn4i5N31JboKSqQi3NJY84PSpDd5VRzWzcTBWcM6Jtrb9TEhX01Y4cK1MLUyl6Q6kPOOPALVuUMkZPbxWLqn9BCG7bcQ005MyhJbASsd+RrJ0jfIt0gIYQrZLjICHmldUkDGa0mu7PYG7vb9R3hx77uErdHZS5gOKxjGO9VySKJx904m2XJm5DYj13SwEJGPanoT580IxzJx2o+/Uwt5qDbY07amWuQuRsxzDahlNAI9c9qAz7JbXbvd41vYIS5IXsBV0FMbpPhRpy1JZkzyqVNbAP9vZnyKW23TH7dOZlxVbX2lbkk9jRGg8X7s0gCYhDpAwChIFTcgm6v1RDr36U8fe1s3VfvwZNL7DSEpC0pbSMJTWRwoV9zxIvroPtREb/7Q+4X/qnEO2uTWbhGisoUUuR1oyvA75o96D0zB05DUiAheHOa3HDuUpXfn8eKyY9gskpyqwasi/RVT4kpM6+6Utl5x9wl5hWclcZfpFX5I61jWfRFotcr12/upCuwlPF0D8A1045VFKfbixnH3VYbbSVKNXSEIh9UV4F24pyi2rLbLKGgM8hjlQh74Fb7XU9dy1fdpKzu3SXAk+Ao4rQ9vNAVVVaqoBj/AKNb03G1Hd7fKV/G8wn0gf8ALdzpw8YA2gAV59/TsJ/7p2cQWluN+qPX29kc+dPepqU2pxSQpW4nl8UBtj5NcdxauSbZw41DKDgDjMYq5fmtspMzB9i9x5YoZ/UGxc08MboiHGdcDrZD5HZNAIxJdL0h11XVayo/7Oaiq5BBIPUVagP/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAwABBAUGAgj/xAAoEAABBAEEAQQCAwEAAAAAAAABAAIDBBEFBhIhMRRBUXEiMhMVYYH/xAAZAQACAwEAAAAAAAAAAAAAAAABBAIDBQD/xAAjEQACAgEDBQADAAAAAAAAAAABAgADERIhMQQTJEFxMjRh/9oADAMBAAIRAxEAPwDzPrOpz6laMs+AcAdBQORznI6UipVfbmDGOHNH1LSp6DGum65eFE2KG0k7mWCpiusDYSv5khIPOMLn3TtGThSlccuOcpcyrd2gWm1hO4jhjPhVLhxcQSOlFLFf8TmWPU9eNQxFyOc5GVJ0+9LStxzx45MOewiadpkt4OMJyW+ya/p8tGQMmIDih3FzozvD2X0a8bQMExr2WyMJBb2thrbP7PQGWGdmMZ/6sS79sharaVsSQSUpu2kdJbq0wBavKxvoHB1UtwwmU7HXupemVzavRR46J7S1Wq6pekiPzkfSvtoVmsjfclH4joK264LUXHuU0UF7hWfXMlbsuempRVWHsjBwVi/OVP1m2bl6R5OQDgKB/q7pqu1WB7ndZd3rSRwNhNDsxxF94ycYQd2OJ1d2SfAXezzjUH/SDug51h30FQB5Z+Rgnwh9lQ/oqTptk1bkcgJ6PajvGHFcjynSAwwZnqxUhhNXuOp6z09iEZ54BIRNVmFDRmQN6e4eybblsT1DFL2WdjKpNeuG1dcM/g3oLOrRmcVNws1LbFVDcvLSrJycpkklpTJl9tM4vP8ApC3Ic6sT/gRNqg+tf9IW4wRqZ+koP2T8jxPigf2VT/2TfGfCl6jRnpWP47MZaSFEwR5BTcRh6tp9ZxMZ8oTncnOcfJ7TYPgBLBygAM5hJJGJyl0lxPwlxPwjBJVa5LWBEJHfvhNNaksuBlIJ+cIPE+wKLTqy2rDYoWEvJQ0LnON5LW2MZ2n/2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Goose Goose Duck</div>
+                                <div class="name">Sid Meier's Civilization VI</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie, Massively Multiplayer, Strategy, Free To Play
+                                        Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -46,7 +46,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 22 Dec 2024
+                                        Last played on 25 Dec 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -55,7 +55,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            10 / 38 achievements unlocked
+                                            8 / 320 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
