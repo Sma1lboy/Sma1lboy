@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cognitive load is what matters</div>
-                                <div class="date">22 Dec 2024</div>
+                                <div class="title">Ghostty 1.0</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Portspoof: Emulate a valid service on all 65535 TCP ports</div>
-                                <div class="date">25 Dec 2024</div>
+                                <div class="title">The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Thought I Found a Bug</div>
-                                <div class="date">25 Dec 2024</div>
+                                <div class="title">Sub-pixel distance transform (2023)</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Reads Causing Writes in Postgres</div>
-                                <div class="date">22 Dec 2024</div>
+                                <div class="title">A Tongue-in-Cheek Look Back at Broderbund's 'The Print Shop'</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                     </section>
