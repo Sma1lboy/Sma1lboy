@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="Focus">
   <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20Java%20%7C%20C-blue" alt="Languages">
+  <a href="https://wakatime.com/@7e1de3b0-3dc3-4dfe-b2db-d03c0887949c"><img src="https://wakatime.com/badge/user/7e1de3b0-3dc3-4dfe-b2db-d03c0887949c.svg" alt="Total time coded since May 2 2022" /></a>
   <img src="https://img.shields.io/badge/Interests-AI%20%7C%20Web3%20%7C%20OS-orange" alt="Interests">
 </p>
 <div align="center">
