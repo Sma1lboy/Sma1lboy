@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LIMO: Less Is More for Reasoning</div>
-                                <div class="date">9 Feb 2025</div>
+                                <div class="title">We replaced our React front end with Go and WebAssembly</div>
+                                <div class="date">11 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world</div>
-                                <div class="date">9 Feb 2025</div>
+                                <div class="title">How Copyover MUD Servers Worked</div>
+                                <div class="date">11 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Persistent packages on Steam Deck using Nix</div>
-                                <div class="date">9 Feb 2025</div>
+                                <div class="title">Undergraduate shows that searches within hash tables can be much faster</div>
+                                <div class="date">10 Feb 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Searchable Library of Free Audiobooks</div>
-                                <div class="date">9 Feb 2025</div>
+                                <div class="title">Surnames from nicknames nobody has any more</div>
+                                <div class="date">10 Feb 2025</div>
                             </div>
                         </div>
                     </section>
