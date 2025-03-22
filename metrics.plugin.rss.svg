@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude can now search the web</div>
-                                <div class="date">20 Mar 2025</div>
+                                <div class="title">Pen and Paper Exercises in Machine Learning (2022)</div>
+                                <div class="date">21 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Retro Boy: simple Game Boy emulator written in Rust, can be played on the web</div>
-                                <div class="date">20 Mar 2025</div>
+                                <div class="title">Not OK Cupid – A story of poor email address validation</div>
+                                <div class="date">21 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">McLaren Invented New Carbon Fiber Tape to Build Even More Complex Parts</div>
-                                <div class="date">17 Mar 2025</div>
+                                <div class="title">The little book about OS development</div>
+                                <div class="date">21 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak</div>
-                                <div class="date">18 Mar 2025</div>
+                                <div class="title">IronRDP: a Rust implementation of Microsoft's RDP protocol</div>
+                                <div class="date">21 Mar 2025</div>
                             </div>
                         </div>
                     </section>
