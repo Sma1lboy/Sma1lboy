@@ -95,11 +95,12 @@ const jackson: Developer = {
 
 ## Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="/metrics.plugin.steam.svg" alt="Steam Stats" width="49%">
-  <img src="/metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="49%">
-</div>
-
-<div align="center">
-  <img src="/metrics.plugin.wakatime.svg" alt="WakaTime Stats" width="70%">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/metrics.plugin.steam.svg" alt="Steam Stats" width="100%">
+    <img src="/metrics.plugin.wakatime.svg" alt="WakaTime Stats" width="100%">
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="100%">
+  </div>
 </div>
