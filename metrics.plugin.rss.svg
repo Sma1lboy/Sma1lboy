@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator</div>
-                                <div class="date">15 Apr 2025</div>
+                                <div class="title">Jellyfin as a Spotify Alternative</div>
+                                <div class="date">17 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How dairy robots are changing work for cows and farmers</div>
-                                <div class="date">15 Apr 2025</div>
+                                <div class="title">Zoom Outage Caused by Accidental 'Shutting Down' of the Zoom.us Domain</div>
+                                <div class="date">17 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,17 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mark Zuckerberg's failed negotiations with the FTC to end Meta's antitrust case</div>
-                                <div class="date">15 Apr 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Cursor IDE support hallucinates lockout policy, causes user cancellations</div>
+                                <div class="title">Demolishing the Fry's Electronics in Burbank</div>
                                 <div class="date">14 Apr 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">OpenAI Codex CLI: Lightweight coding agent that runs in your terminal</div>
+                                <div class="date">16 Apr 2025</div>
                             </div>
                         </div>
                     </section>
