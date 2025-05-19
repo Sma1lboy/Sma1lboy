@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Lost Japanese ROM of the Macintosh Plus</div>
-                                <div class="date">17 May 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Tornado warnings delayed because of DOGE cuts</div>
+                                <div class="title">France Becomes First Government to Endorse UN Open Source Principles</div>
                                 <div class="date">18 May 2025</div>
                             </div>
                         </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AniSora: Open-source anime video generation model</div>
-                                <div class="date">17 May 2025</div>
+                                <div class="title">Spaced repetition systems have gotten better</div>
+                                <div class="date">18 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Coding without a laptop: Two weeks with AR glasses and Linux on Android</div>
-                                <div class="date">14 May 2025</div>
+                                <div class="title">New research reveals the strongest solar event ever detected, in 12350 BC</div>
+                                <div class="date">15 May 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: I modeled the Voynich Manuscript with SBERT to test for structure</div>
+                                <div class="date">18 May 2025</div>
                             </div>
                         </div>
                     </section>
