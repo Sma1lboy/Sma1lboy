@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#67 feat: configuration MCP config in settings page</span>
+                                        <span class="issue">#80 feat(renderer): refactor chat-content layout and refactor copied card component</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by ZHallen122 in <span class="repo">CodeFox-Repo/foxychat</span></div>
-                                    <div>5 files changed <span class="code">++134 --10</span></div>
+                                    <div>opened by NarwhalChen in <span class="repo">CodeFox-Repo/foxychat</span></div>
+                                    <div>10 files changed <span class="code">++511 --383</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#464 chore(widgets): hide custom widget when there is no output, also adding hide for some predefined widget</span>
+                                        <span class="issue">#3 Switch to 8bitcn style</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Jean-Tinland/simple-bar</span></div>
-                                    <div>5 files changed <span class="code">++47 --9</span></div>
+                                    <div> in <span class="repo">Sma1lboy/sma1lboy.me</span></div>
+                                    <div>12 files changed <span class="code">++393 --71</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,9 +58,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">chore-hide-widget-when-there-is-no-output</span>
+                                        <span class="code">codex/replace-website-style-with-8bitcn</span>
                                         in
-                                        <span class="repo">Sma1lboy/simple-bar</span>
+                                        <span class="repo">Sma1lboy/sma1lboy.me</span>
                                     </div>
                                 </div>
                             </section>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#464 chore: adding VSCode link jump to VSCode  in evaluation page</span>
+                                        <span class="issue">#84 Add typed validation and client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">TabbyML/ragdoll</span></div>
-                                    <div>1 file changed <span class="code">++23 --6</span></div>
+                                    <div> in <span class="repo">CodeFox-Repo/foxychat</span></div>
+                                    <div>10 files changed <span class="code">++204 --172</span></div>
                                 </div>
                             </section>
                         </div>
@@ -91,9 +91,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">chore-adding-jump-to-vscode-eval</span>
+                                        <span class="code">codex/add-zod-for-api-validation</span>
                                         in
-                                        <span class="repo">TabbyML/ragdoll</span>
+                                        <span class="repo">CodeFox-Repo/foxychat</span>
                                     </div>
                                 </div>
                             </section>
