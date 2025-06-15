@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Emperor's New LLM</div>
-                                <div class="date">13 Jun 2025</div>
+                                <div class="title">Infinite Grid of Resistors</div>
+                                <div class="date">14 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Implementing Logic Programming</div>
-                                <div class="date">13 Jun 2025</div>
+                                <div class="title">I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch</div>
+                                <div class="date">14 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Self-Adapting Language Models</div>
-                                <div class="date">13 Jun 2025</div>
+                                <div class="title">Q-learning is not yet scalable</div>
+                                <div class="date">15 Jun 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">If the moon were only 1 pixel: A tediously accurate solar system model (2014)</div>
-                                <div class="date">13 Jun 2025</div>
+                                <div class="title">Inside the Apollo "8-Ball" FDAI (Flight Director / Attitude Indicator)</div>
+                                <div class="date">14 Jun 2025</div>
                             </div>
                         </div>
                     </section>
