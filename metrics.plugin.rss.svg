@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My favorite use-case for AI is writing logs</div>
-                                <div class="date">17 Jul 2025</div>
+                                <div class="title">Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs</div>
+                                <div class="date">19 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ChatGPT agent: bridging research and action</div>
-                                <div class="date">17 Jul 2025</div>
+                                <div class="title">Asynchrony is not concurrency</div>
+                                <div class="date">18 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mistral Releases Deep Research, Voice, Projects in Le Chat</div>
-                                <div class="date">17 Jul 2025</div>
+                                <div class="title">How to write Rust in the Linux kernel: part 3</div>
+                                <div class="date">18 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Perfume reviews</div>
-                                <div class="date">17 Jul 2025</div>
+                                <div class="title">Debcraft – Easiest way to modify and build Debian packages</div>
+                                <div class="date">19 Jul 2025</div>
                             </div>
                         </div>
                     </section>
