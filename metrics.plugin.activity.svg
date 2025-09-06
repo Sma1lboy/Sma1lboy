@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#162 [WIP] feat(docs): adding custom sidebar</span>
+                                        <span class="issue">#203 feat: Add checkpoint documentation</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">TabbyML/pochi</span></div>
-                                    <div>19 files changed <span class="code">++1340 --52</span></div>
+                                    <div>5 files changed <span class="code">++76 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -41,7 +41,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">docs/adding-custom-sidebar</span>
+                                        <span class="code">docs/adding-checkpoint-feature</span>
                                         in
                                         <span class="repo">TabbyML/pochi</span>
                                     </div>
@@ -56,12 +56,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#4 Fix duplicate sections in README and correct spelling of 'documentation'</span>
+                                        <span class="issue">#187 refactor: remove translation dependencies and replace with hardcoded text</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Sma1lboy/docs</span></div>
-                                    <div>1 file changed <span class="code">++20 --0</span></div>
+                                    <div> in <span class="repo">TabbyML/pochi</span></div>
+                                    <div>6 files changed <span class="code">++4 --41</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,9 +74,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">chore-adding-docs-5</span>
+                                        <span class="code">chore-remove-some-translation</span>
                                         in
-                                        <span class="repo">Sma1lboy/docs</span>
+                                        <span class="repo">TabbyML/pochi</span>
                                     </div>
                                 </div>
                             </section>
@@ -89,12 +89,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#159 docs(vscode): update vscode documentation and add images</span>
+                                        <span class="issue">#185 feat(docs): add GitHub Action documentation</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">TabbyML/pochi</span></div>
-                                    <div>6 files changed <span class="code">++114 --3</span></div>
+                                    <div>7 files changed <span class="code">++119 --13</span></div>
                                 </div>
                             </section>
                         </div>
