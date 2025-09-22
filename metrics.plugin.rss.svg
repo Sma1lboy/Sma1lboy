@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">$2 WeAct Display FS adds a 0.96-inch USB information display to your computer</div>
-                                <div class="date">20 Sept 2025</div>
+                                <div class="title">Sj.h: A tiny little JSON parsing library in ~150 lines of C99</div>
+                                <div class="date">21 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ultrasonic Chef's Knife</div>
-                                <div class="date">20 Sept 2025</div>
+                                <div class="title">Be Careful with Go Struct Embedding</div>
+                                <div class="date">21 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Designing NotebookLM</div>
-                                <div class="date">20 Sept 2025</div>
+                                <div class="title">Lightweight, highly accurate line and paragraph detection</div>
+                                <div class="date">21 Sept 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Teardown of Apple 40W dynamic power adapter with 60W max</div>
+                                <div class="title">Show HN: I wrote an OS in 1000 lines of Zig</div>
                                 <div class="date">18 Sept 2025</div>
                             </div>
                         </div>
