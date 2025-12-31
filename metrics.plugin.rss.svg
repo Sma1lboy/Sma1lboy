@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google is dead. Where do we go now?</div>
-                                <div class="date">29 Dec 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">MongoDB Server Security Update, December 2025</div>
+                                <div class="title">Project ideas to appreciate the art of programming</div>
                                 <div class="date">30 Dec 2025</div>
                             </div>
                         </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Stop Claude Code from forgetting everything</div>
-                                <div class="date">29 Dec 2025</div>
+                                <div class="title">A faster heart for F-Droid. Our new server is here</div>
+                                <div class="date">30 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bye Bye Big Tech: How I Migrated to an Almost All-EU Stack (and Saved 500€/Year)</div>
-                                <div class="date">29 Dec 2025</div>
+                                <div class="title">FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service</div>
+                                <div class="date">30 Dec 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: 22 GB of Hacker News in SQLite</div>
+                                <div class="date">30 Dec 2025</div>
                             </div>
                         </div>
                     </section>
