@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cowork: Claude Code for the rest of your work</div>
-                                <div class="date">12 Jan 2026</div>
+                                <div class="title">A 40-line fix eliminated a 400x performance gap</div>
+                                <div class="date">13 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TimeCapsuleLLM: LLM trained only on data from 1800-1875</div>
-                                <div class="date">12 Jan 2026</div>
+                                <div class="title">Every GitHub object has two IDs</div>
+                                <div class="date">13 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Postal Arbitrage</div>
-                                <div class="date">12 Jan 2026</div>
+                                <div class="title">The $LANG Programming Language</div>
+                                <div class="date">14 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fabrice Bellard's TS Zip (2024)</div>
-                                <div class="date">12 Jan 2026</div>
+                                <div class="title">vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep</div>
+                                <div class="date">13 Jan 2026</div>
                             </div>
                         </div>
                     </section>
