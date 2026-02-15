@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An AI Agent Published a Hit Piece on Me – More Things Have Happened</div>
+                                <div class="title">News publishers limit Internet Archive access due to AI scraping concerns</div>
                                 <div class="date">14 Feb 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gradient.horse</div>
-                                <div class="date">10 Feb 2026</div>
+                                <div class="title">uBlock filter list to hide all YouTube Shorts</div>
+                                <div class="date">14 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT-5.2 derives a new result in theoretical physics</div>
-                                <div class="date">13 Feb 2026</div>
+                                <div class="title">NewPipe: YouTube client without vertical videos and algorithmic feed</div>
+                                <div class="date">15 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Data Engineering Book – An open source, community-driven guide</div>
-                                <div class="date">13 Feb 2026</div>
+                                <div class="title">My smart sleep mask broadcasts users' brainwaves to an open MQTT broker</div>
+                                <div class="date">14 Feb 2026</div>
                             </div>
                         </div>
                     </section>
