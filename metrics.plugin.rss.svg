@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We intercepted the White House app's traffic. 77% of requests go to 3rd parties</div>
+                                <div class="title">Live: Artemis II Launch Day Updates</div>
                                 <div class="date">1 Apr 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</div>
-                                <div class="date">31 Mar 2026</div>
+                                <div class="title">A new C++ back end for ocamlc</div>
+                                <div class="date">1 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TinyLoRA – Learning to Reason in 13 Parameters</div>
-                                <div class="date">27 Mar 2026</div>
+                                <div class="title">Quantum computing bombshells that are not April Fools</div>
+                                <div class="date">2 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TruffleRuby</div>
-                                <div class="date">28 Mar 2026</div>
+                                <div class="title">DRAM pricing is killing the hobbyist SBC market</div>
+                                <div class="date">1 Apr 2026</div>
                             </div>
                         </div>
                     </section>
