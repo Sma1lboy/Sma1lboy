@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">That's a Lot of YAML</div>
+                                <div class="title">Boot a Virtual iPhone via Apple's Virtualization.framework</div>
                                 <div class="date">28 Aug 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache</div>
-                                <div class="date">27 Aug 2026</div>
+                                <div class="title">GUIs should be fully keyboard-driven</div>
+                                <div class="date">28 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Small Models Have Arrived</div>
-                                <div class="date">27 Aug 2026</div>
+                                <div class="title">TurboKV: Insanely fast Rust key-value store</div>
+                                <div class="date">29 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hilariously Fast Volume Computation with the Divergence Theorem</div>
+                                <div class="title">Htmx 4.0</div>
                                 <div class="date">28 Aug 2026</div>
                             </div>
                         </div>
